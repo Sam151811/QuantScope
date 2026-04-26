@@ -19,8 +19,9 @@ Streamlit dashboard for pricing European options via Monte Carlo simulation. Com
 
 ```
 quantscope/
-├── app.py        # Streamlit app and all chart logic
-├── utils.py      # GBM simulation, BS pricer, Greeks, MC engine
+├── app.py
+├── utils.py
+├── requirements.txt
 └── README.md
 ```
 
